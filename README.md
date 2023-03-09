@@ -15,3 +15,4 @@ Steady Aid is a full-stack web-based application that aims to connect non-profit
 * Node.js
 * Express
 * MongoDB
+* JWT
