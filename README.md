@@ -6,6 +6,7 @@ Steady Aid is a full-stack web-based application that aims to connect non-profit
 * Organizations can create postings about their organization and request assistance, including donations, volunteers, or other types of support.
 * Donors can search and browse postings created by organizations and connect with them directly to offer support.
 * Both organizations and donors can change their passwords as needed to keep their accounts secure.
+* The application uses JWT to authenticate users
 
 
 ## Technologies Used
